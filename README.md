@@ -2,60 +2,67 @@
 
 
 
-# [Project Name] 🎯
+# [FRIENDS SYNC] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Syntax error]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Niranjana K] - [CUSAT SOE]
+- Member 2: [Aparna S] - [CUSAT SOE]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[How compatible are you with your friend? Find out!]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[How can we determine the compatibility of two people who were already friends?]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[ Just ask them some random surface level questions!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML, Java script, CSS]
+- [The website I created doesn't use a framework like React, Vue, Angular, or Bootstrap.]
+- [Libraries used-none]
+- [Tools Used: Visual Studio Code, Web Browser (Google Chrome/Microsoft Edge), Live Server, and Git.]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Main Components: Landing Page, Person A Questionnaire, Person B Questionnaire, Personality & Preference Module, Answer Selection Module, Compatibility Calculation Engine, Results Display, Compatibility Breakdown, Navigation System, and Responsive User Interface.]
+- [Specifications: HTML5, CSS3, Vanilla JavaScript, Visual Studio Code, Chrome/Edge browser, responsive interface, client-side processing, no external libraries or database.]
+- [Tools Required: Visual Studio Code, Web Browser, Live Server, and Git/GitHub.]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[winget install Microsoft.VisualStudioCode]
+[winget install Git.Git]
+[Live Server]
+[code --version git --version]
+
 
 # Run
-[commands]
+[start friendsync.html]
+[python -m http.server 8000]
+[http://localhost:8000]
+[Run Method: Open friendsync.html with Live Server.]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![https://1drv.ms/i/c/546BDBF903A6A7FA/IQAdaaXiIuIJTZZk6HySP039AUEG8zIQKG_oYAUWvprFAU4?e=ycIFPG]
+*coding progress*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![https://1drv.ms/i/c/546BDBF903A6A7FA/IQDR2w-DzpgeS42cdln1G0lCAc1_yrRrZVlSmvE3pPMs7c8?e=hB1FWl]
+*testing process*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![https://1drv.ms/i/c/546BDBF903A6A7FA/IQBIq_8evFZyQKDf3COfDRy3Ab4Cwvu0rR-u1SMigV09BCk?]
+*final output*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -77,21 +84,21 @@ For Hardware:
 ![Build](Add photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
+![https://1drv.ms/i/c/546BDBF903A6A7FA/IQCeTZvpBCccSLBOD0ELirGRARdOIIhmo2sOmlKO4CDDnmY?e=y7w6v6](Add photo of final product here)
 *Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[<video controls src="WhatsApp Video 2026-09-13 at 2.12.08 PM.mp4" title="Title"></video>]
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [niranjana]: [prompting,coding,running]
+-  [aparna]: [coding ,debugging]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
