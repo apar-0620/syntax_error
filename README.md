@@ -55,7 +55,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![https://1drv.ms/i/c/546BDBF903A6A7FA/IQAdaaXiIuIJTZZk6HySP039AUEG8zIQKG_oYAUWvprFAU4?e=ycIFPG]
+![image alt](https://github.com/apar-0620/syntax_error/blob/main/Screenshot%202026-09-13%20125843.png)
 *coding progress*
 
 ![https://1drv.ms/i/c/546BDBF903A6A7FA/IQDR2w-DzpgeS42cdln1G0lCAc1_yrRrZVlSmvE3pPMs7c8?e=hB1FWl]
