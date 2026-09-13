@@ -2,54 +2,54 @@
 
 
 
-# [FRIENDS SYNC] 🎯
+# FRIENDS SYNC 🎯
 
 
 ## Basic Details
-### Team Name: [Syntax error]
+### Team Name: Syntax error
 
 
 ### Team Members
-- Team Lead: [Niranjana K] - [CUSAT SOE]
-- Member 2: [Aparna S] - [CUSAT SOE]
+- Team Lead: Niranjana K - CUSAT SOE
+- Member 2: Aparna S- CUSAT SOE
 
 
 ### Project Description
-[How compatible are you with your friend? Find out!]
+How compatible are you with your friend? Find out!
 
 ### The Problem (that doesn't exist)
-[How can we determine the compatibility of two people who were already friends?]
+How can we determine the compatibility of two people who were already friends?
 
 ### The Solution (that nobody asked for)
-[ Just ask them some random surface level questions!]
+ Just ask them some random surface level questions!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [HTML, Java script, CSS]
-- [The website I created doesn't use a framework like React, Vue, Angular, or Bootstrap.]
-- [Libraries used-none]
-- [Tools Used: Visual Studio Code, Web Browser (Google Chrome/Microsoft Edge), Live Server, and Git.]
+- HTML, Java script, CSS
+- The website I created doesn't use a framework like React, Vue, Angular, or Bootstrap.
+- Libraries used-none
+- Tools Used: Visual Studio Code, Web Browser (Google Chrome/Microsoft Edge), Live Server, and Git.
 
 For Hardware:
-- [Main Components: Landing Page, Person A Questionnaire, Person B Questionnaire, Personality & Preference Module, Answer Selection Module, Compatibility Calculation Engine, Results Display, Compatibility Breakdown, Navigation System, and Responsive User Interface.]
-- [Specifications: HTML5, CSS3, Vanilla JavaScript, Visual Studio Code, Chrome/Edge browser, responsive interface, client-side processing, no external libraries or database.]
-- [Tools Required: Visual Studio Code, Web Browser, Live Server, and Git/GitHub.]
+- Main Components: Landing Page, Person A Questionnaire, Person B Questionnaire, Personality & Preference Module, Answer Selection Module, Compatibility Calculation Engine, Results Display, Compatibility Breakdown, Navigation System, and Responsive User Interface.
+- Specifications: HTML5, CSS3, Vanilla JavaScript, Visual Studio Code, Chrome/Edge browser, responsive interface, client-side processing, no external libraries or database.
+- Tools Required: Visual Studio Code, Web Browser, Live Server, and Git/GitHub.
 
 ### Implementation
 For Software:
 # Installation
-[winget install Microsoft.VisualStudioCode]
-[winget install Git.Git]
-[Live Server]
-[code --version git --version]
+winget install Microsoft.VisualStudioCode
+winget install Git.Git
+Live Server
+code --version git --version
 
 
 # Run
-[start friendsync.html]
-[python -m http.server 8000]
-[http://localhost:8000]
-[Run Method: Open friendsync.html with Live Server.]
+start friendsync.html
+python -m http.server 8000
+http://localhost:8000
+Run Method: Open friendsync.html with Live Server.
 
 ### Project Documentation
 For Software:
@@ -68,7 +68,7 @@ For Software:
 
 
 # Final product 
-
+![image alt](https://github.com/apar-0620/syntax_error/blob/main/Screenshot%202026-09-13%20125914.png) 
 
 ### Project Demo
 # Video
@@ -78,8 +78,8 @@ For Software:
 
 
 ## Team Contributions
-- [niranjana]: [prompting,coding,running]
--  [aparna]: [coding ,debugging]
+- Niranjana: prompting,coding,running
+-  Aparna: coding ,debugging
 
 
 ---
