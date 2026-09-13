@@ -64,36 +64,18 @@ For Software:
 ![image alt](https://github.com/apar-0620/syntax_error/blob/main/Screenshot%202026-09-13%20130036.png)
 *final output*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+# Final product 
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![https://1drv.ms/i/c/546BDBF903A6A7FA/IQCeTZvpBCccSLBOD0ELirGRARdOIIhmo2sOmlKO4CDDnmY?e=y7w6v6](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[<video controls src="WhatsApp Video 2026-09-13 at 2.12.08 PM.mp4" title="Title"></video>]
-*Explain what the video demonstrates*
+[Video demo](https://github.com/apar-0620/syntax_error/blob/main/WhatsApp%20Video%202026-09-13%20at%202.15.12%20PM.mp4)
 
-# Additional Demos
-[Add any extra demo materials/links]
+
+
 
 ## Team Contributions
 - [niranjana]: [prompting,coding,running]
