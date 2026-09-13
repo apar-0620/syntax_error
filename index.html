@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FriendSync - Friendship Compatibility Engine</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="particles" class="floating-elements"></div>
+
+    <div class="container">
+        <!-- Landing Screen -->
+        <div id="landing-screen" class="glass-card screen active">
+            <h1 class="title">✦ FRIENDSYNC ✦</h1>
+            <h2 class="subtitle">Friendship Compatibility Engine</h2>
+            <p class="tagline">"So that you don't get too attached before you find out that you're not compatible."</p>
+            <button class="btn primary-btn" onclick="startQuiz()">START →</button>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quiz-screen" class="glass-card screen">
+            <div class="header">
+                <h2 id="person-indicator" class="accent-text">PERSON A</h2>
+                <div class="progress-bar"><div class="progress" id="progress"></div></div>
+            </div>
+            
+            <div id="question-container" class="question-container">
+                <!-- Question injected via JS -->
+            </div>
+
+            <div class="actions">
+                <button id="prev-btn" class="btn secondary-btn" onclick="prevQuestion()" style="display: none;">← BACK</button>
+                <button id="next-btn" class="btn primary-btn" onclick="nextQuestion()">NEXT →</button>
+            </div>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="results-screen" class="glass-card screen">
+            <h1 class="title">✦ RESULTS ✦</h1>
+            <div class="compatibility-score">
+                <svg viewBox="0 0 36 36" class="circular-chart cyan">
+                  <path class="circle-bg"
+                    d="M18 2.0845
+                      a 15.9155 15.9155 0 0 1 0 31.831
+                      a 15.9155 15.9155 0 0 1 0 -31.831"
+                  />
+                  <path class="circle"
+                    id="score-circle"
+                    stroke-dasharray="0, 100"
+                    d="M18 2.0845
+                      a 15.9155 15.9155 0 0 1 0 31.831
+                      a 15.9155 15.9155 0 0 1 0 -31.831"
+                  />
+                  <text x="18" y="20.35" class="percentage" id="score-text">0%</text>
+                </svg>
+            </div>
+            <h3 id="result-message" class="result-message"></h3>
+            <div class="details" id="result-details"></div>
+            <button class="btn primary-btn mt-4" onclick="restart()">TRY AGAIN ↺</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
