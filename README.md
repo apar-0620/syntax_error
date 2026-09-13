@@ -72,7 +72,7 @@ For Software:
 
 ### Project Demo
 # Video
-[Video demo](https://github.com/apar-0620/syntax_error/blob/main/WhatsApp%20Video%202026-09-13%20at%202.15.12%20PM.mp4)
+https://youtu.be/OL5Uuab8N68?si=vRa6w6HWjNjXAZzn
 
 
 
